@@ -1,0 +1,22 @@
+{
+  "name": "carre4-chatbot",
+  "version": "1.0.8",
+  "description": "Carrefour desafio chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engqueiroz/Carrefour-chatbot.git"
+  },
+  "author": "queiroz.eng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engqueiroz/Carrefour-chatbot/issues"
+  },
+  "homepage": "https://github.com/engqueiroz/Carrefour-chatbot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
